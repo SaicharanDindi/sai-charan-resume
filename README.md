@@ -1,5 +1,4 @@
 # sai-charan-resume
-# Resume
 
 This repository contains my latest resume.
 
